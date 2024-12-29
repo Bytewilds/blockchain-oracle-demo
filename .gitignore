@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with go test -c
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Hardhat
+cache/
+artifacts/
+build/
+
+# IDE
+.idea/
+.vscode/
